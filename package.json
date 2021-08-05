@@ -1,0 +1,13 @@
+{
+    "name": "it.sinergia.deepreality",
+    "displayName": "DeepReality",
+    "version": "1.0.0",
+    "unity": "2021.1",
+    "description": "",
+    "dependencies": {
+        "com.unity.barracuda": "2.1.0-preview",
+        "com.unity.xr.arcore": "4.1.7",
+        "com.unity.xr.arfoundation": "4.1.7",
+        "com.unity.xr.arkit": "4.1.7"
+    }
+}
