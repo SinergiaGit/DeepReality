@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2023-01-26T13:02:48.756Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" version="20.8.11" etag="XhvKCu19Roj6Ktb84TqF" type="github"><diagram name="Pagina-1" id="olGSBSVSyDc01DaI9cqI">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-01-26T13:06:54.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 Edg/109.0.1518.61" etag="F4CyVF6FQwnc3VV7lqaL" version="20.8.11" type="github">
+  <diagram name="Pagina-1" id="olGSBSVSyDc01DaI9cqI">
+    <mxGraphModel dx="1434" dy="908" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GIuJAQ2uoJ7XTjT3SXrj-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9;endSize=6.33;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="20" y="30" as="sourcePoint" />
+            <mxPoint x="80" y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GIuJAQ2uoJ7XTjT3SXrj-3" value="Login dal sito vetrina" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GIuJAQ2uoJ7XTjT3SXrj-4" value="Come fare il login? Usiamo la 2FA?" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="70" width="160" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GIuJAQ2uoJ7XTjT3SXrj-6" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;width=9;endSize=6.33;" edge="1" parent="1" target="GIuJAQ2uoJ7XTjT3SXrj-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="30" as="sourcePoint" />
+            <mxPoint x="260" y="29.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GIuJAQ2uoJ7XTjT3SXrj-7" value="Una volta dentro cosa vede l&#39;utente?" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
